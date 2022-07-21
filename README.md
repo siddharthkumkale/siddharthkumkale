@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddharthkumkale
 - 👀 I’m interested in Cybersecurity,Game development, programming.
-- 🌱 I’m currently pursuing knowledge at AI and ML
+- 🌱 I’m currently pursuing bachleors at Mumbai university in Computer science Engineering (AI and ML)
 -
 - 📫 Contact me - siddharthkumkale@gmail.com
 
