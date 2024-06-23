@@ -13,4 +13,4 @@
 
 📧 Reach me at siddharthkumkale@gmail.com.
 
-🔗 Connect with me on LinkedIn.
+🔗 Connect with me on LinkedIn : https://www.linkedin.com/in/siddharth-kumkale-76b17921b/.
