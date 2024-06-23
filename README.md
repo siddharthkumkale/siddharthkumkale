@@ -4,6 +4,4 @@
 💼 I share insights on Data Science and Data Analytics on my blog.
 📫 You can reach me via email at siddharthkumkale@gmail.com or connect with me on LinkedIn.
 
-siddharthkumkale/siddharthkumkale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
